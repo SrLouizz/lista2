@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+  setlocale(LC_ALL, "Portuguese");
   int n;
   int anterior = 0;
   int atual = 1;
